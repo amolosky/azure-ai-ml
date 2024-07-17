@@ -1,21 +1,35 @@
 MIT License
 
-Copyright (c) 2024 Anna E. Molosky
+Copyright (c) 2021 Microsoft
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+______
+
+The text above is the governing copyright notice and permissions notice. 
+
+Contributor: Anna E. Molosky
+
+DISCLAIMER FOR CONTRIBUTIONS TO MICROSOFT AZURE LEARNING CODE SAMPLES
+
+This project contains code samples from Microsoft Azure Learning, which are the intellectual property of Microsoft Corporation. The original code samples are provided under the terms of the MIT License, as found in the LICENSE file provided by Microsoft in the original repository.
+
+I have made updates to the original code samples to address outdated exercises, updated Python Libraries and Azure Functions, and have added additional comments to enhance understanding. These updates and comments are my contributions to the project.
+
+Contributions:
+
+Updates to outdated exercises
+- Additional comments for clarity and educational purposes
+- Updates to Python Libraries
+- Updates to Outdated Azure Functions
+
+My contributions are intended to improve the educational value of the code samples and are provided under the same MIT License as the original Microsoft Azure Learning code samples. I am not selling the code samples herein; they are explicitly for educational use.
+
+All trademarks and registered trademarks are the property of their respective owners.
+
+Please note that my contributions are made in good faith for educational purposes, and I do not claim any ownership or rights over the original work provided by the Microsoft Corporation.
+
