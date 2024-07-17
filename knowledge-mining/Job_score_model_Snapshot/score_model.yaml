@@ -1,0 +1,56 @@
+amlModuleIdentifier:
+  namespace: azureml
+  moduleName: Score Model
+  moduleVersion: 0.0.177
+meta:
+  collectLogs: true
+metadata:
+  annotations:
+    tags: []
+    familyId: 401b4f92-e724-4d5a-be81-d5b0ff9bdb33
+    contact: Microsoft Corporation
+    helpDocument: https://aka.ms/aml/score-model
+category: Model Scoring & Evaluation
+description: Scores predictions for a trained classification or regression model.
+isDeterministic: true
+inputs:
+- name: Trained model
+  type: ModelDirectory
+  description: Trained predictive model
+- name: Dataset
+  type: DataFrameDirectory
+  description: Input test dataset
+- name: Append score columns to output
+  type: Boolean
+  default: true
+  description: If checked, append score columns to the result dataset, otherwise only
+    return the scores and true labels if available.
+outputs:
+- name: Scored dataset
+  type: DataFrameDirectory
+  description: Dataset with obtained scores
+implementation:
+  container:
+    amlEnvironment:
+      name: AzureML-Designer
+      version: '54'
+    command:
+    - python
+    - invoker.py
+    - python
+    - -m
+    - azureml.studio.modulehost.module_invoker
+    - --module-name=azureml.studio.modules.ml.score.score_generic_module.score_generic_module
+    args:
+    - --trained-model
+    - inputPath: Trained model
+    - --dataset
+    - inputPath: Dataset
+    - --append-score-columns-to-output
+    - inputValue: Append score columns to output
+    - --scored-dataset
+    - outputPath: Scored dataset
+  servingEntry:
+    module: azureml.studio.modules.ml.score.score_generic_module.score_generic_module
+    class: ScoreModelModule
+    func: run

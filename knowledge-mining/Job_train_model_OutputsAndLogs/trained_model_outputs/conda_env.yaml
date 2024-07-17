@@ -1,0 +1,10 @@
+name: project_environment
+channels:
+- conda-forge
+dependencies:
+- python=3.8.10
+- pip=20.2
+- pip:
+  - azureml-defaults
+  - azureml-designer-classic-modules==0.0.177
+  - azureml-designer-serving==0.0.12

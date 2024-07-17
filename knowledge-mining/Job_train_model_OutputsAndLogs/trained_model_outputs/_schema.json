@@ -1,0 +1,232 @@
+{
+  "columnAttributes": [
+    {
+      "name": "symboling",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "make",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "fuel-type",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "aspiration",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "num-of-doors",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "body-style",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "drive-wheels",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "engine-location",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "wheel-base",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "length",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "width",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "height",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "curb-weight",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "engine-type",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "num-of-cylinders",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "engine-size",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "fuel-system",
+      "type": "String",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "str",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "bore",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "stroke",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "compression-ratio",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "horsepower",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "peak-rpm",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "city-mpg",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "highway-mpg",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "price",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    }
+  ],
+  "featureChannels": [],
+  "labelColumns": {},
+  "scoreColumns": {}
+}
