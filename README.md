@@ -1,5 +1,6 @@
 # Azure Machine Learning and AI Exercises
-25+ full examples for getting started (or leveling up) your Azure AI and Machine Learning skills
+This repository contains 25+ full examples to start building (or level up) your Azure AI and Machine Learning skills. 
+*Read the License file before embarking on your learning journey.*
 ## Getting Started
 **To get started with Azure Machine Learning exercises, you can follow these steps to find the necessary documentation and resources**
  1. Azure Machine Learning Documentation: The official Azure Machine Learning documentation is a comprehensive resource that covers everything from basic concepts to advanced scenarios. You can start here: [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2).
