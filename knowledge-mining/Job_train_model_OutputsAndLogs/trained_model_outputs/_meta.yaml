@@ -1,5 +1,0 @@
-type: ModelDirectory
-extension: {}
-model: model_spec.yaml
-registerModel: true
-modelOutputPath: trained_model_outputs
