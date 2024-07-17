@@ -15,7 +15,16 @@ This repository contains 25+ full examples to start building (or level up) your 
  9. IDE or Code Editor: A good integrated development environment (IDE) or code editor, such as Visual Studio Code, is helpful for writing and debugging your Python scripts or Jupyter notebooks.
  10. Azure Machine Learning Studio Access: For a no-code or low-code experience, you can use Azure Machine Learning Studio, a web-based interface for managing the machine learning lifecycle.
 
-## Resources
+## Overview
+*All images are the property of Microsoft Corporation.*
+
+#### Microsoft AI Portfolio
+![Microsoft AI Portfolio Overview](/documentation-images/Microsoft%20AI%20portfolio.png)
+
+#### Microsoft AI/ML Services
+![Microsoft AI Portfolio Overview](/documentation-images/MS-Capabilities.jpg)
+
+# Resources
  1. Azure Machine Learning Documentation: The official Azure Machine Learning documentation is a comprehensive resource that covers everything from basic concepts to advanced scenarios. You can start here: [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2).
  2. Quickstarts and Tutorials: The documentation includes a variety of quickstarts and tutorials that are great for getting hands-on experience. Look for sections titled "Quickstarts" and "Tutorials" within the documentation.
  3. Microsoft Learn: Microsoft Learn offers interactive learning paths and modules that are specifically designed for Azure Machine Learning. These can be very helpful for beginners and cover both the theoretical aspects and practical exercises. Start with the Azure Machine Learning fundamentals on Microsoft Learn: [Introduction to Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/).
