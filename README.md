@@ -1,4 +1,4 @@
-# azure-ai-ml
+# Azure Machine Learning and AI Exercises
 25+ full examples for getting started (or leveling up) your Azure AI and Machine Learning skills
 ## Getting Started
 **To get started with Azure Machine Learning exercises, you can follow these steps to find the necessary documentation and resources**
