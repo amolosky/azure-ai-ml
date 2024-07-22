@@ -4,7 +4,7 @@ This repository contains 25+ full examples to start building (or level up) your 
 ## Getting Started
 ### Prerequisites
 **To get started with Azure Machine Learning, you will need the following:**
- **1. Azure Account:** A Microsoft Azure account is essential. If you don't have one, you can sign up for a free account which provides limited access to Azure services and a certain amount of free credits to explore services.
+ 1. Azure Account: A Microsoft Azure account is essential. If you don't have one, you can sign up for a free account which provides limited access to Azure services and a certain amount of free credits to explore services.
  2. Azure Subscription: Within your Azure account, you'll need an active subscription. The free account includes a free subscription with limited credits. For ongoing or more extensive projects, you may need to set up a paid subscription.
  3. Resource Group: Azure organizes resources into resource groups, which are containers that hold related resources for an Azure solution. You'll need to create or have a resource group where you can place your Azure Machine Learning resources.
  4. Azure Machine Learning Workspace: The workspace is the top-level resource for Azure Machine Learning, providing a centralized place to work with all the artifacts you create when you use Azure Machine Learning. You can create a workspace in the Azure portal, via the Azure CLI, or using the Azure Machine Learning SDK for Python.
