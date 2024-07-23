@@ -12,9 +12,11 @@ def main():
    
 
     try:
-        # Get Configuration Settings
+        # Get Configuration Settings.
+        
         # Create client using endpoint and key
         load_dotenv()
+        # REPLACE YOUR VALUES FOR COG_SERVICE_ENDPOINT AND COG_SERVICE_KEY
         cog_endpoint = os.getenv('COG_SERVICE_ENDPOINT')
         cog_key = os.getenv('COG_SERVICE_KEY')
 
