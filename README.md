@@ -16,13 +16,14 @@ This repository contains 25+ full examples to start building (or level up) your 
  10. Azure Machine Learning Studio Access: For a no-code or low-code experience, you can use Azure Machine Learning Studio, a web-based interface for managing the machine learning lifecycle.
 
 ## Overview
-*All images are the property of Microsoft Corporation.*
 
 #### Microsoft AI Portfolio
 ![Microsoft AI Portfolio Overview](/documentation-images/Microsoft%20AI%20portfolio.png)
 
 #### Microsoft AI/ML Services
 ![Microsoft AI Portfolio Overview](/documentation-images/MS-Capabilities.jpg)
+
+*All images are the property of Microsoft*
 
 # Resources
  1. Azure Machine Learning Documentation: The official Azure Machine Learning documentation is a comprehensive resource that covers everything from basic concepts to advanced scenarios. You can start here: [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2).
