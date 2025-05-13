@@ -1,4 +1,4 @@
-# Azure Machine Learning and AI Exercises ![Static Badge](https://img.shields.io/badge/Unofficial%20-%20grey)
+# Azure Machine Learning and AI Exercises 
 
 This repository contains 25+ full examples to start building (or level up) your Azure AI and Machine Learning skills. <br>
 *Read the License file before embarking on your learning journey.*
